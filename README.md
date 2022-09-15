@@ -6,3 +6,5 @@ Nice to meet you guys!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongBinYoon)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongBinYoon&show_icons=true&theme=tokyonight)
+
