@@ -24,7 +24,7 @@
 ![Gmail](https://img.shields.io/badge/yoonseongbin4925@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
 
 ### For more details, please visit
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)(https://seongbinyoon.github.io)
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://seongbinyoon.github.io)
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongBinYoon%2FSeongBinYoon.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
